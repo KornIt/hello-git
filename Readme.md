@@ -1,2 +1,2 @@
 # Credits
-Repository created at PUT NiOSR course. :fire:
+Repository created at PUT NiOSR course. :fire: :zap:
