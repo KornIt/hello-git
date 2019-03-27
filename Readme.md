@@ -1,1 +1,2 @@
-#Test
+# Credits
+Repository created at PUT NiOSR course.
